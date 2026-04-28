@@ -1,4 +1,4 @@
-# 🚀 Umais Jafry | Portfolio & AI Email Agent
+# 🚀 Umais Jafry | AI Email Agent
 
 This repository houses my custom-built AI Email Automation Agent.
 
